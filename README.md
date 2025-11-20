@@ -1,123 +1,170 @@
 # 🌍 Tina Village – Das Open-Source-Dorf der Zukunft  
 Ein Projekt für Menschen, die gemeinsam etwas Großes erschaffen wollen.
 
-Willkommen bei **Tina Village** – einem offenen, kollaborativen Projekt,
-das zeigt, wie ein modernes Dorf aussehen kann, das:
+Willkommen bei **Tina Village**, einem offenen, global nutzbaren Bauplan
+für ein modernes Dorf von etwa **2'000 Menschen**, das:
 
-- ressourcenschonend ist  
-- einen Großteil seiner Energie und Lebensmittel selbst erzeugt  
-- robuste Gebäude aus eigenem Holz baut  
-- soziale Gemeinschaft fördert  
-- und wirtschaftlich unabhängig als Netzwerk von Dörfern funktioniert
+- einen großen Teil seiner Energie und Nahrung selbst erzeugt  
+- robuste, langlebige Gebäude aus eigenem Holz baut  
+- eine **eigene Schule** und Kulturbereiche besitzt  
+- **viele Arbeitsplätze direkt im Dorf** schafft  
+- hochwertige und nachhaltige **Exportgüter** produziert  
+- über fairen **Handel** jene Dinge bezieht, die es nicht selbst herstellen kann  
+- und als Netzwerk mit anderen Dörfern zusammenarbeitet
 
-Dieses Repository enthält alle Pläne, Konzepte, Berechnungen und
-Strukturen, um ein **replizierbares, nachhaltiges Dorf** zu entwickeln,
-das überall auf der Welt nachgebaut und weiterentwickelt werden kann.
+Dieses Repository enthält alles, was man benötigt, um ein solches Dorf  
+zu **planen**, **aufzubauen**, **zu betreiben** und **weiterzuentwickeln**.
 
-Und dafür brauchen wir **dich**.
+Und dafür laden wir dich ein mitzuwirken.
 
 ---
 
 # 🤝 Mitmachen & Mitgestalten
 
-Tina Village ist **Open-Source**. Jeder kann mitdenken, mitplanen,
-mitrechnen, kritisieren, ergänzen, verbessern.
+Tina Village ist **Open-Source**.  
+Jede Person – egal aus welchem Fachgebiet – kann beitragen:
 
-Du bist willkommen, wenn du:
+- Architektur & CAD  
+- Energie & Wasser  
+- Waldwirtschaft & Landwirtschaft  
+- Bildung & Sozialstrukturen  
+- Wirtschaft, Handel, Exportmodelle  
+- IT, Apps und Automatisierung  
+- Betrieb, Organisation, Governance  
+- Dokumentation, Übersetzung, Layout  
 
-- Ideen für nachhaltiges Bauen hast  
-- Energie- oder Wassersysteme spannend findest  
-- Architektur oder CAD liebst  
-- Wissen zu Wald, Landwirtschaft oder Permakultur hast  
-- dich für soziale Organisation & Gemeinwesen interessierst  
-- wirtschaftliche Modelle entwickeln möchtest  
-- IT, Monitoring, Apps oder Automatisierung beitragen willst  
-- oder dich einfach inspiriert fühlst und mithelfen möchtest
+Wenn du Ideen hast, Fragen, Kritik, Vorschläge oder  
+einfach Lust, Teil einer positiven Vision zu sein –  
+**du bist willkommen**.
 
-Hier gibt es keine „Chefs“ – nur **Menschen, die gemeinsam ein System
-bauen**, das vielen anderen Gemeinschaften helfen kann.
+---
+
+# 🏙 Was ist Tina Village?
+
+Ein vollständig dokumentiertes, modular aufgebautes Siedlungsmodell:
+
+- **ca. 2'000 Einwohner**  
+- **1 km² Siedlungsfläche**  
+- **9 km² Wald- und Nutzfläche**  
+- **Schule für ~180 Kinder**  
+- **200–350 Arbeitsplätze im Dorf**  
+- zentrale Kantinen statt großer Privatküchen  
+- gemeinschaftliche Infrastruktur statt Einzelkonsum  
+- Produktion hochwertiger, reparierbarer Exportprodukte  
+- fairer Import von langlebigen Gütern  
+- ökologisch, sozial und wirtschaftlich stabil  
+
+Unser Ziel: Ein Dorf, das **wirklich funktioniert** – ökologisch,
+wirtschaftlich, sozial – und das *jeder* nachbauen kann.
 
 ---
 
 # 🛠 Was gerade entsteht
 
-Wir entwickeln:
+Wir bauen Bausteine für ein vollständiges Dorf:
 
-- **Gebäudepläne** (Tiny Houses, Familienhäuser, Werkstätten, Schule, Kantinen)
-- **Energiemodelle** (Holz-KWK, PV, Speicher, Wärmenetz)
-- **Landwirtschafts- und Ernährungskonzepte**
-- **Waldmanagement für 9 km² nachhaltige Nutzung**
-- **Industrie-Module** (Holz, Metall, Textil)
-- **Exportgüter**, die jede Siedlung herstellen kann
-- **Handelsmodelle**, die auf Langlebigkeit und Reparierbarkeit setzen
-- **IT-Infrastruktur und Siedlungs-App**
-- **Governance, Finanzen, Betrieb, Bildung**
-- **eine vollständige Replikations-Anleitung**
+- Gebäudepläne (Häuser, Schule, Kantinen, Werkstätten)
+- Energiezentrum (Holz-KWK, PV, Speicher, Wärmenetz)
+- Wassersystem & Abwasser
+- Landwirtschaft & Gewächshäuser
+- Waldmanagement für nachhaltige Holzwirtschaft
+- Industrie-Module (Holz, Metall, Textil)
+- **Spezielle Exportgüter**, die jedes Dorf herstellen kann
+- **Nachhaltiger Handel** mit langlebigen, reparierbaren Produkten
+- Finanzmodelle für langfristige Tragfähigkeit
+- Governance und Gemeinschaftsmodelle
+- IT-Infrastruktur und Siedlungs-App
+- vollständige Anleitung zur Replikation
 
-Alles modular.  
-Alles dokumentiert.  
-Alles frei verwendbar.
+Alles modular, alles offen, alles versionierbar.
 
 ---
 
-# 🚀 Warum wir das tun
+# 🌱 Warum wir das tun
 
-Wir glauben, dass viele kommende Probleme nur gelöst werden können, wenn
-Gemeinschaften wieder lernen:
+Wir glauben, dass viele Herausforderungen der nächsten Jahrzehnte nicht
+durch mehr Zentralisierung, sondern durch:
 
-- Dinge selbst zu bauen  
-- Energie und Nahrung lokal zu produzieren  
-- Verantwortung zu teilen  
-- Systeme zu schaffen, die nicht ständig externe Ressourcen benötigen  
+- lokale Resilienz  
+- Gemeinschaft  
+- Reparierbarkeit  
+- regionale Produktion  
+- soziale Nähe  
+- effiziente, moderne Infrastruktur  
 
-Diese Dörfer sollen **robust, schön, effizient und menschlich** sein.
-Keine Ideologie, sondern **praktische Lösungen**.
+gelöst werden können.
+
+Ein Dorf, das:
+
+- Energie selbst erzeugt  
+- Nahrung selbst anbaut  
+- Wohnen bezahlbar macht  
+- Arbeit im Dorf schafft  
+- durch Exportgüter Einnahmen erzielt  
+- durch Handel robuste externe Güter bezieht  
+
+ist stabil, zukunftsfähig und menschenfreundlich.
+
+---
+
+# 🛒 Handel & Export – ein Schlüssel zum Modell
+
+Tina Village ist **kein isoliertes System**.
+
+Das Dorf:
+
+- produziert **hochwertige Exportgüter**, z. B. Holzprodukte,
+  Saatgutsets, langlebige Textilien  
+- tauscht diese gegen Produkte, die man lokal nicht herstellen kann  
+  (Elektronik, medizinische Geräte, Spezialwerkzeuge)  
+- achtet dabei strikt auf:
+  - Haltbarkeit  
+  - Reparierbarkeit  
+  - offene Dokumentation  
+  - faire Preise  
+
+So entsteht echte wirtschaftliche Stabilität ohne Überkonsum.
 
 ---
 
 # 🧩 Wie du beitragen kannst
 
-### 👉 Ideen einbringen  
-Öffne Issues, sende Vorschläge, stelle Fragen.
+### 👉 Architektur, Bau, Technik  
+Plane Gebäude, zeichne Skizzen, verbessere Struktur und Layout.
 
-### 👉 Dokumentation erweitern  
-Verbessere Texte, füge Details hinzu, präzisiere Berechnungen.
+### 👉 Energie & Wasser  
+Hilf bei Netzen, Dimensionierung, Optimierung.
 
-### 👉 Building Modules erstellen  
-Zeichne CAD-Skizzen, mache ASCII-Skizzen, formuliere Bauprinzipien.
+### 👉 Landwirtschaft & Wald  
+Bringe Wissen ein über Anbau, Permakultur, Artenvielfalt, Waldpflege.
 
-### 👉 Energie- und Wassersysteme planerisch unterstützen  
-Wir suchen Menschen, die Spaß an der technischen Planung haben.
+### 👉 Wirtschaft & Handel  
+Entwickle Exportprodukte, Handelslogik und faire Märkte.
 
-### 👉 Landwirtschaft und Waldwirtschaft  
-Erfahrungen teilen, Modelle ausarbeiten, realistische Zahlen einbringen.
+### 👉 IT & App  
+Baue Schnittstellen, Tools, Monitoring, Automatisierung.
 
-### 👉 Exportgüter entwickeln  
-Welche Produkte kann ein Dorf herstellen, die lange halten?  
-Was wäre weltweit wertvoll?
+### 👉 Dokumentation  
+Schreibe, übersetze, ordne Inhalte.
 
-### 👉 Governance & soziale Architektur  
-Wie organisiert man ein Dorf fair, dezentral und effektiv?
+### 👉 Diskussion & Reflexion  
+Bringe neue Ideen, Perspektiven, Kritik oder Visionen ein.
 
-### 👉 Übersetzen  
-Das Projekt soll international nutzbar sein.
-
-### 👉 Diskussion starten  
-Alles beginnt mit Gesprächen.
+Alles beginnt mit einem Gespräch.
 
 ---
 
-# 🛤 Roadmap (offen für Beiträge)
+# 🛤 Roadmap (offen, gemeinsam erweiterbar)
 
-1. **Masterplan verfeinern**  
-2. **Baupläne detaillieren**  
-3. **Energie- und Wassermodule fertigstellen**  
-4. **Landwirtschaftliches Jahr planen**  
-5. **Export- und Handelskonzept finalisieren**  
-6. **Replikationsleitfaden für andere Regionen schreiben**  
-7. **Pilot-Simulation (Papiermodell) erstellen**
+1. Masterplan finalisieren  
+2. Baupläne verfeinern  
+3. Energie- & Wassersystem vollständig modellieren  
+4. Export- & Handelsstrategie definieren  
+5. Finanzmodell auf 10 Jahre simulieren  
+6. Replikationshandbuch erstellen  
+7. Pilot-Siedlung planen oder simulieren  
 
-Wenn du eine Station übernehmen willst: einfach melden.
+Wenn du bei einer dieser Phasen mithelfen möchtest – großartig.
 
 ---
 
@@ -125,15 +172,15 @@ Wenn du eine Station übernehmen willst: einfach melden.
 
 Wir freuen uns über:
 
-- Pull Requests
-- Issues
-- Diskussionen
-- Kritik
-- Verbesserungsvorschläge
-- völlig neue Ideen
+- Pull Requests  
+- Issues  
+- Diskussionen  
+- Austausch  
+- Kritik  
+- Verbesserungsvorschläge  
 
-Wenn dich dieses Projekt berührt oder inspiriert:
-**Mach einfach mit.**  
-Das hier ist ein offenes, menschliches Projekt – und du bist eingeladen.
+Wenn dich diese Vision inspiriert:  
+**Mach mit. Gestalte mit. Plane mit.**
 
-Willkommen bei **Tina Village**.
+Willkommen bei **Tina Village** –  
+einer offenen, menschlichen Idee für die Zukunft.
