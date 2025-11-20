@@ -1,78 +1,59 @@
+# Tina Village – Gesamtüberblick (Open-Source-Dorfprojekt)
+
+Tina Village ist ein **Open-Source-Dorfmodell** für etwa **2'000 Bewohner** auf 
+**1 km² Siedlungsfläche** und **9 km² Wald- und Landwirtschaftsfläche**.
+Es basiert auf einfachen, reparierbaren, nachhaltigen und modularen Systemen,
+die überall auf der Welt repliziert werden können.
+
+Dieses Dokument dient als **kompakte Gesamtübersicht**, bevor man in die
+Einzelmodule einsteigt.
 
 ---
 
-# 📦 7. Erweiterbare Anhänge (für spätere PRs)
+# 🎯 Ziel des Projekts
 
-- Musterverträge (Legal)  
-- Checklisten (Operations)  
-- Waldkarte & Erntepläne (Forest)  
-- Saatgutkatalog (Industry)  
-- Bauanleitung eines Standardhauses  
-- Finanzmodelle für neue Dörfer  
+Ein vollständig dokumentiertes Dorfmodell, das:
 
----
+- ökologisch  
+- sozial stabil  
+- wirtschaftlich tragfähig  
+- modern  
+- energieeffizient  
+- leicht replizierbar  
+- vollständig Open Source  
 
-# 📚 8. Quellen, Literatur & Inspiration
-
-### Architektur & Nachhaltigkeit
-- Christopher Alexander – *A Pattern Language*  
-- Walter Segal – *Self-Build Techniques*  
-- Permakultur-Designhandbücher  
-
-### Energie & Wasser
-- IEA Holzenergieberichte  
-- WHO Wasserstandards  
-- Open-Source-Wasserfilterprojekte  
-
-### Open Source Community
-- Open Source Ecology  
-- Wikihouse  
-- OSHWA Standards  
+ist und als Blaupause für Dörfer weltweit dienen kann.
 
 ---
 
-# 🧩 9. Verbindung zu anderen Modulen
+# 🧱 Grundstruktur des Dorfes
 
-Dieses Modul sammelt Zusatzmaterial zu:
+**Einwohner:** rund 2'000  
+**Schule:** 9 Klassen × 20 Kinder  
+**Arbeitsplätze:** 250–350  
+**Fläche:**  
+- 1 km² Siedlung  
+- 9 km² Wald, Natur, Felder  
 
-- `01_masterplan`  
-- `02_buildings`  
-- `03_infrastructure`  
-- `04_energy`  
-- `05_water`  
-- `06_waste`  
-- `07_food`  
-- `08_industry`  
-- `09_forest`  
-- `10_it`  
-- `11_governance`  
-- `12_finance`  
-- `13_operations`  
-- `14_education`  
-- `15_health`  
-- `16_security`  
-- `17_replicate`  
-- `18_legal`  
+**Kernelemente:**
+- Tiny Shopping Mall (6–7 unabhängige Micro-Shops)  
+- 4 Kantinen (wenig Privatküchen)  
+- Coworking-Büro  
+- medizinische Grundversorgung  
+- Energie- und Wassersystem  
+- Holz-, Metall-, Textilwerkstätten  
+- Landwirtschaft & Gewächshäuser  
+- Waldwirtschaft  
+- IT-Infrastruktur  
+- Sicherheit & Governance  
+- Exportgüterproduktion  
 
----
-
-# 📥 10. Mitarbeit
-
-Beiträge willkommen zu:
-- Tabellen  
-- Diagrammen  
-- Rechenmodellen  
-- ASCII-Plänen  
-- Checklisten  
-- Musterformularen  
-
-PRs & Issues erwünscht.
+Das Dorf funktioniert wie ein **optimierten Mini-Stadt**, aber mit Fokus auf
+Gemeinschaft, Nachhaltigkeit und Autarkie.
 
 ---
 
-# 🎯 Ziel dieses Moduls
+# 🏗️ Module des Projekts (Schnellüberblick)
 
-Ein **flexibler Anhang**, der das gesamte Projekt ergänzt und erweitert.  
-Er dient als Toolbox für Planer, Gemeinden, Entwickler, Schulen und Teams,
-die ein ähnliches Dorf replizieren möchten.
+Das gesamte Projekt besteht aus 19 Modulen:
 
